@@ -1,0 +1,5 @@
+.udacity-pa
+.idea
+.ipynb_checkpoints
+__pycache__
+assets
